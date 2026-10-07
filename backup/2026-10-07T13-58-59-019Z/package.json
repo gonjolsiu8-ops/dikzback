@@ -1,0 +1,14 @@
+{
+  "name": "ShadowDatabase",
+  "version": "Database",
+  "main": "dikz.js",
+  "scripts": {
+    "start": "node dikz.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.6.8",
+    "fs-extra": "^11.2.0",
+    "@octokit/rest": "latest"
+  }
+}
