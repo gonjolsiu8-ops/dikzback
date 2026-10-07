@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-10-07T13:59:06.031Z",
+  "backed_up_by": 1956929425,
+  "backed_up_by_name": "dikznotdev",
+  "roles_snapshot": {
+    "owner": [
+      "1894506235"
+    ],
+    "ceo": [],
+    "tangankanan": [],
+    "moderator": [],
+    "partner": [],
+    "reseller": []
+  },
+  "files_backed_up": 4,
+  "failed": [
+    "./settings/config.js (Repository rule violations found\n\nSecret detected in content\n\n - https://docs.github.com/rest/repos/contents#create-or-update-file-contents)"
+  ]
+}
